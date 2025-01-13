@@ -48,7 +48,7 @@ server.on('message', (msg, rinfo) => {
 console.log(name)
   switch (name) {
     case 'hello': {
-      // Handle other cases
+      // Handle other cases in future
       break;
     }
     default: {
