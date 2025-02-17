@@ -1,4 +1,4 @@
-# DNS Server with Market Timing Responses(M)
+# DNS Server with Market Timing Responses
 
 This project implements a simple DNS server using Node.js, which responds with market timing information based on Indian Standard Time (IST). The server listens for DNS queries and returns TXT records with information on whether the market is open or closed, and how much time is left until the next market event.
 
